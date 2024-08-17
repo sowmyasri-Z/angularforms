@@ -94,7 +94,8 @@
                 "input": "public"
               }
             ],
-            "styles": [
+           "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -102,5 +103,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "6b49399e-95ad-471c-ac7b-f6a5db042448"
   }
 }
